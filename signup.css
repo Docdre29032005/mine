@@ -1,0 +1,42 @@
+h1 {
+    color: blue;
+ text-align: center;
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+h3 {
+    color: blue;
+font-family: 'Times New Roman', Times, serif;
+}
+
+p { 
+    color: chartreuse;
+}
+
+button {
+    color: red;
+background-color: black;
+margin-left: 200PX;
+margin-right: 150px;
+width: 135px;
+height: 30px;
+border: 2px solid white;
+cursor: pointer;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+    margin-left: 250px;
+    margin-right: 200px;
+}
+
+li {
+    color: blue;
+}
